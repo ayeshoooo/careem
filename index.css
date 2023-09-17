@@ -1,0 +1,482 @@
+.head{
+    display: flex;
+    margin-left: 50px;
+   
+}
+.head h2{
+    margin-left: 50px;
+    font-size: 20px;
+    margin-top: 50px;
+    text-decoration: none;
+}
+.head img{
+    margin-top: 20px;
+    width: 100px;
+}
+.head a{
+    text-decoration: none;
+    color: #000;
+}
+.head a:hover{
+    text-decoration: underline;
+    color: aquamarine;
+
+}
+.head button{
+    background-color:rgb(106, 175, 37);
+    color: #000;
+    border: none;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    font-weight: bold;
+    margin-left: 400px;
+    margin-top: 20px;
+}
+.banner img{
+    width: 90%;
+    height: 600px;
+  margin-left: 90px;
+  margin-top: 100px;
+  border-radius: 30px;
+   
+}
+.content img{
+    width: 30px;
+    height: 20px;
+   
+   
+   
+}
+.content{
+    display: flex;
+   justify-content:space-evenly;
+   
+   margin-top: 100px;
+}
+.black{
+    background-color:blue ;
+    height: 550px;
+    
+    font-weight: bold;
+    width: 300px;
+    border-radius: 20px;
+    color: aliceblue;
+    padding-top: 30px;
+    padding-left: 30px;
+   
+}
+.content p{
+    margin-top: -100px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.pink{
+    background-color:rgb(116, 184, 147) ;
+    height: 550px;
+    
+    font-weight: bold;
+    width: 300px;
+    border-radius: 20px;
+    color: aliceblue;
+    padding-top: 30px;
+    padding-left: 30px;
+   
+}
+.brown{
+    background-color:rgb(95, 105, 188) ;
+    height: 550px;
+    
+    font-weight: bold;
+    width: 300px;
+    border-radius: 20px;
+    color: aliceblue;
+    padding-top: 30px;
+    padding-left: 30px;
+   
+}
+.red{
+    background-color:rgb(33, 37, 67) ;
+    height: 550px;
+    
+    font-weight: bold;
+    width: 300px;
+    border-radius: 20px;
+    color: aliceblue;
+    padding-top: 30px;
+    padding-left: 30px;
+   
+}
+.product{
+    background-color:rgb(15, 95, 15) ;
+   height: 300px;
+   border-radius: 30px;
+   padding-top: 50px;
+   padding-left: 50px;
+margin-top: 50px;
+width: 80%;
+margin-left: 100px;
+
+}
+.product .pop{
+  margin-left:700px;
+  height: 400px;
+  margin-top: -50px;
+ 
+}
+.hope button{
+    background-color: chartreuse;
+    border: none;
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    
+
+}
+.hope{
+    padding-top:50px;
+    margin-left: 250px;
+    margin-top: 200px;
+    width: 500px;
+}
+.tim img{
+    margin-left: 800px;
+    margin-top: -200px;
+}
+.ror{
+    background-color: rgb(11, 185, 144);
+    height: 400px;
+    margin-top: 50px;
+    padding-right: 50px;
+    border-radius: 40px 30px 20px 10px;
+}
+.ror .yt {
+    margin-left: 700px;
+    margin-top: -300px;
+
+}
+.ror img{
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.dop .yt{
+    margin-left: 700px;
+    margin-top: -300px;
+    padding-right: 40px;
+}
+.yt button{
+    background-color: chartreuse;
+    border: none;
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+}
+.hour{
+    margin-top: 300px;
+}
+.fog{
+    display: flex;
+    margin-top: 200px;
+    background-color: aquamarine;
+    border-radius: 20px;
+    padding-top: 30px;
+    padding-right: 30px;
+   
+}
+.fog img{
+    height: 300px;
+    width: 300px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.fog p{
+    margin-left: 60px;
+}
+.fog h1{
+    margin-left: 70px;
+}
+.fog button{
+    background-color: aliceblue;
+    font-weight: bold;
+    border: none;
+    border-radius: 20px;
+    width: 120px;
+    height: 40px;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+.fur{
+    margin-top: 50px;
+    margin-left: 100px;
+   
+}
+.fur img{
+    margin-top: 30px;
+   
+}
+.about{
+   margin-left: 300px;
+   display: flex;
+   margin-top: -200px;
+   justify-content: space-evenly;
+}
+.about h1{
+    font-size: 20px;
+}
+.about p{
+    font-weight: bold;
+}
+.def{
+    display: flex;
+    margin-left: 600px;
+    margin-top: -50px;
+  
+}
+.in p{
+    padding-top: 40px;
+}
+.def p{
+    padding-left: 20px;
+}
+.def img{
+    margin-left: 30px;
+   
+    padding-left: 20px;
+    height: 50px;
+   
+}
+.fish{
+    display: flex;
+    margin-left: 150px;
+    margin-top: -150px;
+  
+    
+}
+.fish h1{
+    font-size: 20px;
+    padding-left: 80px;
+}
+.fish img{
+    height: 40px;
+}
+.sum img{
+   
+    height: 25px;
+    margin-top: 30px;
+}
+.sum h1{
+    padding-left: 35px;
+}
+.sum{
+  
+    background-color: rgb(248, 236, 236);
+    margin-left: 80px;
+    border-radius: 20px;
+    height: 50px;
+   
+    padding-top: 10px;
+    margin-top: 50px;
+    width: 100px;
+   
+   
+
+}
+.fish{
+    justify-items: right;
+}
+.xp{
+    margin-left: 80px;
+    margin-top: 100px;
+   
+}
+.xp h2{
+    font-size:20px;
+}
+.text{
+    display: flex;
+ 
+   margin-top: 120px;
+  width: 1500px;
+  font-weight: bold;
+  background-color: aliceblue;
+  height: 200px;
+  margin-top: -10px;
+  padding-top: 100px;
+  border-radius: 20px;
+  padding-left: 80px;
+ 
+ 
+}
+.text h3{
+    padding-left: 40px;
+}
+.suc img{
+    border-radius: 30px;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+.cream{
+    display: flex;
+    margin-left: 400px;
+
+ 
+}
+.cream h3 {
+    padding-left: 50px;
+    
+   
+}
+.cream img{
+    height: 20px;
+  
+}
+.cream .em{
+    background-color: rgb(239, 232, 232);
+    margin-left: 20px;
+    width: 150px;
+    height: 80px;
+    border-radius: 20px;
+    margin-top: 80px;
+
+    
+}
+.dir h1{
+    margin-left: 700px;
+    margin-top: 100px;
+    font-size: 50px;
+
+}
+.em:hover{
+    background-color: rgb(90, 171, 91);
+}
+.qu{
+   margin-left: 500px;
+   display: flex;
+   margin-top: -100px;
+   margin-left: 800px;
+  
+}
+.wed{
+    margin-top: 200px;
+    margin-left: 100px;
+   
+}
+.qu div{
+    background-color: rgb(201, 225, 227);
+    margin-left: 30px;
+    height: 120px;
+    border-radius: 20px;
+    
+}
+.qu p{
+    margin-top: -10px;
+    padding-left: 15px;
+}
+.ai{
+    margin-left: 800px;
+    margin-top: 50px;
+    background-color:rgb(201, 225, 227) ;
+    width: 150px;
+    border-radius:20px ;
+}
+.ai p{
+    margin-top: -10px;
+    padding-left: 15px;
+
+
+}
+.wed h1{
+    font-size: 50px;
+    color: rgb(31, 99, 48);
+}
+.wed p{
+    font-size: 20px;
+}
+.do{
+    
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.do div{
+    background-color: aliceblue;
+    width: 300px;
+    border-radius: 20px;
+    margin-top: 100px;
+    padding-left: 50px;
+
+   
+   
+
+}
+.bo{
+    margin-left: 800px;
+    margin-top: -400px;
+    height: 400px;
+    color: aliceblue;
+   
+}
+.ft img{
+    margin-top: 200px;
+    margin-left: 60px;
+}
+.ft{
+    background-color: rgb(102, 114, 182);
+    margin-top: 200px;
+   border-radius: 20px;
+   font-size: 30px;
+}
+.ft button{
+    background-color: aliceblue;
+    border: none;
+    font-size: 10px;
+    height: 30px;
+    width: 100px;
+    border-radius: 30px;
+    margin-top: -50px;
+}
+.xox{
+    margin-left: 500px;
+    margin-top: -200px;
+   
+}
+.sos img{
+    margin-left: 50px;
+    margin-top: 80px;
+}
+.xox button{
+    background-color: rgb(122, 155, 184);
+    border: none;
+    font-size: 15px;
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+}
+.zi{
+    margin-left: 700px;
+    margin-top: -300px;
+
+}
+.imp{
+   background: none;
+   
+}
+.chick{
+    background-color: aliceblue;
+    margin-top: 100px;
+}
+.tongue{
+    background-color: aliceblue;
+    align-items: flex-start;
+   
+}
+.hole
+{
+    background-color: aliceblue;
+}
+.does{
+    align-items: end;
+}
+.sum a{
+    text-decoration: none;
+}
